@@ -1,0 +1,14 @@
+{
+  "name": "memematch-ai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:ui": "vite",
+    "build": "vite build",
+    "seed": "node scripts/buildLibrary.mjs"
+  },
+  "dependencies": { "react": "^18.3.1", "react-dom": "^18.3.1" },
+  "devDependencies": { "@vitejs/plugin-react": "^4.3.1", "vite": "^5.4.0" }
+}
