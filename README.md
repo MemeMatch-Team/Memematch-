@@ -118,3 +118,12 @@ Open the **⚡ CHAOS** button (bottom-left) to toggle / demo everything:
 5. ⏳ Sarcastic loading screen — "Consulting your ex…"
 6. 🏃 Fleeing Send button — short dodges only (max ~90px), gives up after 7 dodges; clicking it says "You wasted N seconds finding the button" (Ctrl+Enter also submits)
 🤪 **Mayhem Emoji Mode** — reactions become mutating, wobbling mashups + full-screen emoji rain; GIF reactions spin and colour-shift.
+
+## 🌐 Live Demo
+
+👉 https://memematch-six.vercel.app
+
+## 👥 Team
+
+- Mahira Shikalgar
+- Ritu Awalkar
